@@ -1,0 +1,43 @@
+body{
+    background-color: #000000;
+    color: rgb(230, 105, 138);
+    font-family: Roboto;
+    text-align: justify;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+header{
+    border-bottom: 1px solid grey;
+    text-align: center;
+    color: rgb(246, 46, 79);
+    font-family: Verdana;
+}
+
+h2{
+    color:rgb((197, 244, 247) 221, 255);
+}
+
+footer{
+    border-top: 1px solid rgb(101, 98, 98);
+    text-align: right;
+    font-style: italic;
+    color: rgba(242, 93, 118, 0.752);
+}
+
+#nome-usuário{
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.texto-inglês{
+    font-style: italic;
+}
+
+img{
+    width: 30%;
+    margin: auto;
+    display: block;
+    padding: 30px;
+}
